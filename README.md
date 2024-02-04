@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **frontend**
 
-- 👨‍💻 All of my projects are available at [https://abhishektripathiapn.github.io/my-portfolio/](https://abhishektripathiapn.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [my_portfolio](https://abhishektripathiapn.github.io/my-portfolio/)
 
 - 💬 Ask me about **var topics = [ "Java", "Spring", "Python", "CSS" , "DSA"]**
 
 - 📫 How to reach me **abhitri102001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/1/d/1AS0zGBn2wSqMMH8q-Jd8pnaa9AzNSvjx/view](https://drive.google.com/file/u/1/d/1AS0zGBn2wSqMMH8q-Jd8pnaa9AzNSvjx/view)
+- 📄 Know about my experiences [myresume](https://drive.google.com/file/u/1/d/1AS0zGBn2wSqMMH8q-Jd8pnaa9AzNSvjx/view)
 
 - ⚡ Fun fact **I am funny**
 
